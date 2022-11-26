@@ -1,0 +1,16 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "Project demonstrating NodeJS,vanila CSS, vanilla JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+   
+  },
+  "author": "Abhimanyu",
+  "license": "ISC"
+}

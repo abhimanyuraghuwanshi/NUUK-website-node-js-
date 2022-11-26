@@ -1,0 +1,161 @@
+.navbar {
+    background-color: white;
+    position: absolute;
+    margin: 30px 5% 0 5%;
+    text-align: right;
+    width: 74%;
+    font-weight: 600;
+}
+
+.logo {
+    background-color: rgb(209, 108, 31);
+    position: absolute;
+    padding: 40px;
+}
+
+.atag {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.menu {
+    display: inline-block;
+    height: 80px;
+    margin: 0;
+
+}
+
+.menuitem {
+    display: inline-flex;
+    font-size: 13px;
+    padding: 32px 10px;
+
+
+}
+
+.atag:hover {
+    color: rgb(228, 123, 42);
+}
+
+.getform {
+    display: inline-block;
+    background-color: rgb(228, 123, 42);
+    text-align: center;
+    position: absolute;
+    width: 150px;
+    height: 79%;
+    padding-top: 1.7%;
+    font-size: 14px;
+    color: white;
+}
+
+.dropdown {
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    list-style: none;
+    position: absolute;
+    top: 80px;
+    left: 1010px;
+    padding: 0;
+    width: 150px;
+    display: none;
+    border-end-end-radius: 40%;
+}
+
+.dropit:hover .dropdown {
+    display: block;
+}
+
+.drop {
+    padding: 10px;
+}
+
+/* navbar ended */
+.quoteform {
+    background-color: aqua;
+    width: 260%;
+    height: 600px;
+    position: absolute;
+    left: -145px;
+    top: -40%;
+    padding-top: 35px;
+    text-align: center;
+    display: none;
+    z-index: +1;
+}
+
+.getform:hover .quoteform {
+    background-color: rgb(255, 255, 255);
+    display: block;
+}
+
+.form {
+    display: block;
+    margin: 20px;
+    width: 70%;
+    padding: 15px;
+    border: 0;
+    border-bottom: 1px solid rgb(228, 123, 42);
+}
+
+/* Form ended */
+
+
+body {
+    background-image: url(https://img.freepik.com/premium-vector/construction-background-construction-info-graphics-book-cover-design_40382-67.jpg?w=2000);
+    font-family: 'Lucida Sans';
+    background-size: cover;
+    color: #ffffff;
+    font-size: small;
+    min-width: 700px;
+    background-repeat: no-repeat;
+}
+#heading{ padding-top: 200px;color: rgb(255, 0, 0);}
+
+#sub {
+    background-color: rgb(247, 110, 5);
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10% 0;
+    padding: 25px;
+    opacity: 70%;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+#board {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    position: fixed;
+    width: fit-content;
+    background: #ffffff;
+    border-radius: 25% 0;
+    padding: 1px;
+    left: 1060px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+button {
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    width: 90px;
+    margin: 8px;
+    border: 0;
+    font-size: 16px;
+    border-radius: 20%;
+    padding: 15px;
+    cursor: pointer;
+    justify-content: center;
+}

@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "answer": 2,
+        "question": "What are the pieces of wood called that hold up your floor? (If you go into your basement and look up, these are the pieces on edge)",
+        "options": [
+            "rafters",
+            "joists",
+            "floor boards",
+            "gutters"
+        ]
+    },
+    {
+        "id": 2,
+        "answer": 1,
+        "question": "what are the pieces of wood called that hold up your roof. (if you go into your attic and look up, these are the pieces on edge)",
+        "options": [
+            "rafters.",
+            "joists.",
+            "strapping.",
+            "gutters."
+        ]
+    },
+    {
+        "id": 3,
+        "answer": 2,
+        "question": "what is the piece of wood on the outside of your house that the rain gutters are mounted to?",
+        "options": [
+            "soffit",
+            "fascia",
+            "rake board",
+            "eave"
+        ]
+    },
+    {
+        "id": 4,
+        "answer": 3,
+        "question": "what do you call the end of the house that looks like a triangle?",
+        "options": [
+            "cupola",
+            "widows walk",
+            "gable",
+            "dormer"
+        ]
+    },
+    {
+        "id": 5,
+        "answer": 2,
+        "question": "what do you call the upright pieces in a wall?",
+        "options": [
+            "floods",
+            "studs",
+            "suds",
+            "buds"
+        ]
+    }
+]
