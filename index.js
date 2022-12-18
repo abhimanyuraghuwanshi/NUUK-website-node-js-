@@ -46,6 +46,10 @@ const server = http.createServer((req, res) => {
         openfile = "protected";
         typeofPagetobeLoaded = 1;
     }
+    else if (realurl == "/demo") {
+        openfile = "demo";
+        typeofPagetobeLoaded = 1;
+    }
 
 
     // static file loading
